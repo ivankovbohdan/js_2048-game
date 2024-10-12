@@ -16,6 +16,7 @@ The game design ensures it looks great, providing a consistent and enjoyable gam
 
 ## Links
 - MOCKUP:
+  
   ![reference](https://github.com/user-attachments/assets/209aa139-dd1c-4a97-aa4e-5fba70505992)
 
 - [DEMO LINK](https://ivankovbohdan.github.io/js_2048-game)
